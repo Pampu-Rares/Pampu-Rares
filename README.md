@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rareș</h1>
 <h3 align="center">An aspiring Full-Stack developer based in Romania.</h3>
 
-- 🔭 I'm currently working on [Reaction tester website](https://github.com/Pampu-Rares/reaction-time-tester)
+- 🔭 I'm currently working on [the Movie Finder app](https://github.com/Pampu-Rares/movie-chooser)
 
 - 🌱 I'm in the early stages of expanding my knowledge besides web apps. For example, I'm now learning **Jetpack Compose**
 
