@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [the Movie Finder app](https://github.com/Pampu-Rares/movie-chooser)
 
-- 🌱 I'm in the early stages of expanding my knowledge besides web apps. For example, I'm now learning **Jetpack Compose**
+- 🌱 I'm in the early stages of expanding my knowledge besides web apps.
 
 - 📫 How to reach me: **rarespampu@gmail.com**
 
