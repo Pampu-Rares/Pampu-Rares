@@ -13,14 +13,6 @@
   <img src="https://streak-stats.demolab.com/?user=pampu-rares&theme=nightowl&hide_border=true&cache_seconds=86400" alt="pampu-rares's GitHub Streak" width="70%" />
 </p>
 <p align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=pampu-rares&theme=github-dark&mode=dark&style=snake" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pampu-rares&theme=github-dark&mode=dark&style=snake" />
-    <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=pampu-rares&theme=github-dark&mode=dark&style=snake" />
-    </picture>
-</p>
-
-<p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=pampu-rares&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
 
